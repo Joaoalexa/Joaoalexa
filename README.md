@@ -1,16 +1,18 @@
-## Hi there 👋
+🔭 I’m currently working on:  
+Organizing and publishing real-world machine learning notebooks based on the book *Hands-On Machine Learning* (2nd ed.).
 
-<!--
-**Joaoalexa/Joaoalexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning:  
+Deep Learning, LSTM/RNN architectures, Deployment with TensorFlow Serving, and Data Strategy for business intelligence.
 
-Here are some ideas to get you started:
+👨‍💻 I’m open to collaborate on:  
+Machine learning projects, data pipelines, and intelligent process automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:  
+ML workflows, Scikit-Learn, Keras, SQL Server for payroll/HR systems, and Data Engineering.
+
+📫 How to reach me:  
+[linkedin.com/in/joão-alexandre-91461625](https://www.linkedin.com/in/joão-alexandre-91461625)
+
+⚡ Fun fact:  
+I’ve built and published payroll systems, data products, and business automations across multiple platforms — from Excel to Sankhya ERP.
+
