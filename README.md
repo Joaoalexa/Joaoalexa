@@ -1,8 +1,30 @@
-Olá, eu sou João Alexandre!
+João Alexandre – Perfil Profissional
+Sou engenheiro e cientista de dados , com mais de 10 anos de experiência em liderança de projetos, gestão de processos, modelagem de dados e integração de sistemas.
 
-🎓 Engenheiro e Cientista de Dados apaixonado por aprendizado de máquina, engenharia de dados e soluções inteligentes que conectam teoria à prática.
+Atualmente participa do programa AWS Cloud Data Engineering Scholarship , promovido pela Compass UOL , e do curso de Pós-graduação em Engenharia e Ciência de Dados pela UNIESP/PB . Estou aprofundando conhecimentos em ETL , bancos de dados , Python , visualização de dados e serviços em nuvem (AWS) .
 
----
+🎓 Formação Acadêmica
+Pós-graduação em Engenharia e Ciência de Dados (em andamento) – UNIESP
+Pós-graduação em Engenharia de Dados
+Pós-graduação em Controladoria
+Pós-graduação em Análise de Sistemas
+Pós-graduação em Gestão Financeira
+
+🛠 Habilidades Técnicas
+SQL (SQLite, PostgreSQL, SQL Server)
+Python (Pandas, NumPy, Matplotlib)
+Power BI
+Git e GitHub
+Modelagem de Dados
+
+Integração de Sistemas
+Fundamentos de AWS (S3, EC2, RDS – em aprendizado)
+
+📂 Projetos e Evidências
+Este repositório contém a estrutura completa dos sprints realizados no programa AWS Cloud Data Engineering, com todos os exercícios, desafios e apresentações organizados por massa:
+
+Atualmente com leitura no aprendizado de máquina, engenharia de dados e soluções inteligentes que conectam teoria à prática.
+
 
 ## 🚀 Último Projeto Publicado
 
