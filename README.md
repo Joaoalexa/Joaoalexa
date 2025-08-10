@@ -3,22 +3,7 @@
 Sou engenheiro e cientista de dados, com mais de 10 anos de experiência em liderança de projetos, gestão de processos, modelagem de dados e integração de sistemas.
 
 Atualmente participo do programa **AWS Cloud Data Engineering Scholarship**, promovido pela Compass UOL, e do curso de **Pós-graduação em Engenharia e Ciência de Dados** pela UNIESP/PB. Estou aprofundando conhecimentos em **ETL**, bancos de dados, **Python**, visualização de dados e serviços em nuvem (AWS).
->>>>>>> 6d03213 (docs: unifica perfil profissional e README do projeto de clustering)
-
-👨‍💻 I’m open to collaborate on:  
-Machine learning projects, data pipelines, and intelligent process automation.
-
-<<<<<<< HEAD
-💬 Ask me about:  
-ML workflows, Scikit-Learn, Keras, SQL Server for payroll/HR systems, and Data Engineering.
-
-📫 How to reach me:  
-[linkedin.com/in/joão-alexandre-91461625](https://www.linkedin.com/in/joão-alexandre-91461625)
-
-⚡ Fun fact:  
-I’ve built and published payroll systems, data products, and business automations across multiple platforms — from Excel to Sankhya ERP.
-
-=======
+>
 ## 🎓 Formação Acadêmica
 - Pós-graduação em Engenharia e Ciência de Dados (em andamento) – UNIESP
 - Pós-graduação em Engenharia de Dados
