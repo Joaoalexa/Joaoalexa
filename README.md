@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-🔭 I’m currently working on:  
-Organizing and publishing real-world machine learning notebooks based on the book *Hands-On Machine Learning* (2nd ed.).
-
-🌱 I’m currently learning:  
-Deep Learning, LSTM/RNN architectures, Deployment with TensorFlow Serving, and Data Strategy for business intelligence.
-=======
 # João Alexandre – Perfil Profissional
 
 Sou engenheiro e cientista de dados, com mais de 10 anos de experiência em liderança de projetos, gestão de processos, modelagem de dados e integração de sistemas.
