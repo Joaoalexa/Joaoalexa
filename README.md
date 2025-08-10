@@ -3,7 +3,14 @@
 Sou engenheiro e cientista de dados, com mais de 10 anos de experiência em liderança de projetos, gestão de processos, modelagem de dados e integração de sistemas.
 
 Atualmente participo do programa **AWS Cloud Data Engineering Scholarship**, promovido pela Compass UOL, e do curso de **Pós-graduação em Engenharia e Ciência de Dados** pela UNIESP/PB. Estou aprofundando conhecimentos em **ETL**, bancos de dados, **Python**, visualização de dados e serviços em nuvem (AWS).
->
+
+
+[linkedin.com/in/joão-alexandre-91461625](https://www.linkedin.com/in/joão-alexandre-91461625)
+
+⚡ Fun fact:  
+I’ve built and published payroll systems, data products, and business automations across multiple platforms — from Excel to Sankhya ERP.
+
+=======
 ## 🎓 Formação Acadêmica
 - Pós-graduação em Engenharia e Ciência de Dados (em andamento) – UNIESP
 - Pós-graduação em Engenharia de Dados
@@ -27,38 +34,25 @@ Atualmente participo do programa **AWS Cloud Data Engineering Scholarship**, pro
 ## 📂 Projetos e Evidências
 Este repositório contém a estrutura completa dos sprints realizados no programa AWS Cloud Data Engineering, com todos os exercícios, desafios e apresentações organizados por pasta:
 
-```
 engenharia-dados/
 ├── imagens/                  # Recursos visuais
 ├── sprint-1/                 # Exercícios e desafio da Sprint 1
 ├── sprint-2/                 # Exercícios e desafio da Sprint 2
 └── README.md                 # (Este arquivo – perfil profissional)
-```
+Cada sprint possui uma README.mddescrição detalhada da estrutura, evidências dos exercícios ( .png), scripts em Python ( .py) e arquivos de apoio ( .csv, .txt).
 
-Cada sprint possui um `README.md` com descrição detalhada da estrutura, evidências dos exercícios (`.png`), scripts em Python (`.py`) e arquivos de apoio (`.csv`, `.txt`).
+📍 Localização
+📌João Pessoa – PB, Brasil
 
----
-
-## 📍 Localização
-📌 João Pessoa – PB, Brasil
-
----
-
-## 🚀 Objetivo Profissional
+🚀 Objetivo Profissional
 Transformar dados em soluções inteligentes para tomada de decisão, combinando experiência em processos com conhecimento técnico em ciência de dados e nuvem. Estou em aprendizado constante e pronto para novos desafios.
 
----
+📊 Projeto: Clustering — Desempenho do Aluno (K-Means & Hierárquico)
+1. Sobre
+Implementação de clustering (aprendizado não supervisionado) usando o dataset Student Performance (UCI/Kaggle).
+O objetivo é segmentar estudantes com base em atributos acadêmicos e demográficos, utilizando K-Means e Clustering Hierárquico (Ward) .
 
-# 📊 Projeto: Clustering — Student Performance (K-Means & Hierárquico)
-
-## 1. Sobre
-Implementação de **clustering** (aprendizado não supervisionado) usando o dataset **Student Performance** (UCI/Kaggle).  
-O objetivo é segmentar estudantes com base em atributos acadêmicos e demográficos, utilizando **K-Means** e **Clustering Hierárquico (Ward)**.
-
----
-
-## 2. Estrutura
-```
+2. Estrutura
 .
 ├── clustering_student_performance.ipynb   # Notebook completo e parametrizado
 ├── clustering_student_performance_cli.py  # Script Python com interface de linha de comando
@@ -72,30 +66,25 @@ O objetivo é segmentar estudantes com base em atributos acadêmicos e demográf
 │   ├── dendrograma_ward.png
 │   ├── pca_kmeans.png
 │   └── pca_hierarquico.png
-```
-
----
-
-## 3. Como usar
-
-### 3.1 Notebook
-1. Coloque seu dataset (`student-mat.csv` ou `student-por.csv`) na mesma pasta do notebook **ou** altere o caminho na primeira célula:
-```python
+3. Como usar
+3.1 Caderno
+Coloque seu dataset ( student-mat.csvou student-por.csv) na mesma pasta do notebook ou altere o caminho na primeira célula:
 DATA_PATH = r'student-mat.csv'
 ```
 2. Execute célula a célula no Jupyter.
 3. Os resultados serão gravados em `outputs_clustering_student/`.
 
 ### 3.2 Script CLI
+```bash
 # Dataset Matemática (separador ;)
 python clustering_student_performance_cli.py --data-path "C:\caminho\student-mat.csv"
 
-# Dataset Português
+Conjunto de dados Português
 python clustering_student_performance_cli.py --data-path "C:\caminho\student-por.csv" --save-dir outputs_por
 
-# CSV com outro separador
-python clustering_student_performance_cli.py --data-path "C:\...\meuarquivo.csv" --sep ","
-```
+CSV com outro separador
+python clustering_student_performance_cli.py --data-path "C:...\meuarquivo.csv" --sep ","
+
 
 **Parâmetros principais:**
 - `--data-path`: caminho do CSV local (**obrigatório**)
