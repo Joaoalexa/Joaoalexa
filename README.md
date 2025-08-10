@@ -87,7 +87,6 @@ DATA_PATH = r'student-mat.csv'
 3. Os resultados serão gravados em `outputs_clustering_student/`.
 
 ### 3.2 Script CLI
-```bash
 # Dataset Matemática (separador ;)
 python clustering_student_performance_cli.py --data-path "C:\caminho\student-mat.csv"
 
@@ -124,4 +123,3 @@ python clustering_student_performance_cli.py --data-path "C:\...\meuarquivo.csv"
 - Pré-processamento inclui **one-hot encoding** para variáveis categóricas e **normalização z-score**.
 - Melhor número de clusters (k) é escolhido pelo maior **Silhouette médio**.
 - O dendrograma é amostrado para manter a legibilidade.
->>>>>>> 6d03213 (docs: unifica perfil profissional e README do projeto de clustering)
