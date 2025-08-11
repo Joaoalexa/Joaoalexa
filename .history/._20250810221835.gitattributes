@@ -1,0 +1,5 @@
+.gitattributes
+*.md linguist-documentation
+*.ipynb linguist-documentation
+*.py linguist-language=Python
+.history/
