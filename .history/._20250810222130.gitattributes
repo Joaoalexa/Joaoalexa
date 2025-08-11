@@ -1,0 +1,23 @@
+.gitattributes
+*.md linguist-documentation
+*.ipynb linguist-documentation
+*.py linguist-language=Python
+.history/
+# Marca arquivos de documentação para não entrarem no cálculo de linguagem
+*.md linguist-documentation
+*.txt linguist-documentation
+*.csv linguist-documentation
+*.tsv linguist-documentation
+
+# Ignora notebooks no cálculo de linguagem
+*.ipynb linguist-documentation
+
+# Força reconhecimento de arquivos .py como Python
+*.py linguist-language=Python
+
+# Arquivos de configuração não contam para linguagem
+*.yml linguist-documentation
+*.yaml linguist-documentation
+*.ini linguist-documentation
+*.json linguist-documentation
+
